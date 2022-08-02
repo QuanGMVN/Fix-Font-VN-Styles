@@ -7,7 +7,7 @@
 * @Source https://github.com/QuanGMVN/Fix-Font-VN-Styles
 * @website https://betterdiscord.app/theme/MinimalCord
 */
-@import url("https://github.com/QuanGMVN/Fix-Font-VN-Styles");
+@import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
 @import url('https://fonts.googleapis.com/css2?family=Nunito');
 :root {
 --message-padding: 10px;
